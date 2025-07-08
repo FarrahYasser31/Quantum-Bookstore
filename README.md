@@ -1,12 +1,8 @@
-  QuantumBookstore/
-├── src/
-│ └── quantumbookstore/
-│ ├── Book.java
-│ ├── PaperBook.java
-│ ├── EBook.java
-│ ├── ShowcaseBook.java
-│ ├── QuantumBookstore.java
-│ └── QuantumBookstoreFullTest.java
+  QuantumBookstore
+Book.java
+PaperBook.java
+ShowcaseBook.java
+QuantumBookstoreFullTest.java
 
 - Language: Java 
 - Tool: VS Code
